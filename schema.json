@@ -1,0 +1,14 @@
+[
+  {
+    "type": "text",
+    "label": "Nome",
+    "name": "name",
+    "required": true
+  },
+  {
+    "type": "email",
+    "label": "Email",
+    "name": "email",
+    "required": true
+  }
+]
